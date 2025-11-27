@@ -30,7 +30,7 @@ Tras generar el proyecto, debemos crear un repositorio en GitHub donde almacenar
 
 `echo 'git branch gh-pages`
 
-![alt text](capturas/image.png)
+![alt text](capturas/ej1.png)
 
 # 3 .Configuración del archivo _config.yml
 
@@ -44,17 +44,17 @@ url, que indica la dirección donde se publicará.
 En este caso, la dirección quedaría como:
 https://JaimePortilla.github.io/myblog2
 
-![alt text](capturas/image2.png)
+![alt text](capturas/ej1-2.png)
 
 # 4. Edición de la página principal (index.markdown)
 
 El archivo index.markdown contiene el texto que se va a visualizar en la página principal del sitio. Podemos editarlo para personalizar el contenido, añadiendo texto, imágenes y enlaces según nuestras preferencias.
 
-![alt text](capturas/image3.png)
+![alt text](capturas/ej1-3.png)
 
 Así se ve una vez subida a GitHub Pages:
 
-![alt text](capturas/image4.png)
+![alt text](capturas/ej1-4.png)
 
 
 # 5. Configuración de la sección “about” (about.markdown)
@@ -62,10 +62,10 @@ Así se ve una vez subida a GitHub Pages:
 El fichero about.markdown sirve para mostrar información adicional, por ejemplo, datos del autor o detalles del proyecto.
 En este ejercicio, el archivo contiene una breve presentación personal.
 
-![alt text](capturas/image6.png)
+![alt text](capturas/ej1-6.png)
 
 
-![alt text](capturas/image5.png)
+![alt text](capturas/ej1-5.png)
 
 
 # 6. Posts
@@ -73,7 +73,7 @@ En este ejercicio, el archivo contiene una breve presentación personal.
 Los posts son las entradas o publicaciones del sitio. Cada una debe guardarse dentro de la carpeta _posts y escribirse en Markdown o HTML. El nombre del archivo debe seguir la estructura:
 año-mes-dia-nombre-del-post.md.
 
-![alt text](capturas/image7.png)
+![alt text](capturas/ej1-7.png)
 
 Publicación en GitHub Pages
 
